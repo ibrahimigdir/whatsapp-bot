@@ -1,4 +1,4 @@
-# wabot-aq
+# whatsapp-bot
 Simple WhatsApp Bot
 
 ### Cara Install
@@ -7,9 +7,10 @@ Untuk Full Tutorial silahkan klik [`Tautan ini`](https://code.fahmiofficial.eu.o
 #### Subscribe : 
 [`https://youtube.com/channel/UCKnzdl1cYOqTnmKvDjvRaOA`](https://youtube.com/channel/UCKnzdl1cYOqTnmKvDjvRaOA)
 
-#### Group Bot 1: 
+#### Group Bot Whatsapp: 
 - [`https://chat.whatsapp.com/BziYhTyB1UT6Oo09S3c6Ha`](https://chat.whatsapp.com/BziYhTyB1UT6Oo09S3c6Ha) 
 - [`https://chat.whatsapp.com/D6NRwM7SItGF3tNeNlJUtk`](https://chat.whatsapp.com/D6NRwM7SItGF3tNeNlJUtk)
+
 
 
 
